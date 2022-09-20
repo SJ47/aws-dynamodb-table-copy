@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1218.0",
+    "copy-dynamodb-table": "^2.2.1"
+  }
+}
